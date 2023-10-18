@@ -23,7 +23,7 @@ export default function App() {
           <label>
             <input type="checkbox"/>
             Item 2
-          </label>
+          </label> 
           <button className="btn btn-danger">Delete</button>
         </li>
       </ul>
